@@ -46,5 +46,5 @@ My name is Yunfei Luo. I'm the graduate student in University of Massachusetts A
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yunfeiluo&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yunfeiluo&theme=dark&mode=weekly)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunfeiluo&show_icons=true&theme=radical)
