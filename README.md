@@ -10,16 +10,12 @@
   <a href="https://twitter.com/yunfei_luo">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  </div>
   <h1>
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
+  </div>
 </div>
-
-
-
----
 
 ### :man_technologist: About Me :
 My name is Yunfei Luo. I'm the graduate student in University of Massachusetts Amherst, majoring in Computer Science M.S. I'm interested in Artificial Intelligence in general. My research focus on Applied Machine Learning, Multimodal Learning, and Multitask Learning, with their applications in Digital Health and Smart Scene.
@@ -46,5 +42,5 @@ My name is Yunfei Luo. I'm the graduate student in University of Massachusetts A
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yunfeiluo&theme=dark&mode=weekly&card_width=100)](https://git.io/streak-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunfeiluo&show_icons=true&theme=radical&card_width=100)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunfeiluo&show_icons=true&theme=dark&card_width=495)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yunfeiluo&theme=blueberry&mode=weekly)](https://git.io/streak-stats)
