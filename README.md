@@ -18,7 +18,7 @@
 </div>
 
 ### :man_technologist: About Me :
-My name is Yunfei Luo. I'm the graduate student in University of Massachusetts Amherst, majoring in Computer Science M.S. I'm interested in Artificial Intelligence in general. My research focus on Applied Machine Learning, Multimodal Learning, and Multitask Learning, with their applications in Digital Health and Smart Scene.
+Yunfei Luo is a prospective Ph.D. student in the Halıcıoğlu Data Science Institute at the University of California San Diego. His research focuses on applied machine learning, multimodal learning, and multitask learning, along with applications in digital health and smart scene. Yunfei received his dual B.S. in computer science and mathematics from the University of Massachusetts Amherst, his M.S. in computer science also from the University of Massachusetts Amherst. He has more than 4 years of research and engineering experience in the field of machine learning, working with multimodal data and multitask learning. Yunfei is a diligent person, easy going, and a quick learner.
 
 ---
 
