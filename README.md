@@ -18,7 +18,7 @@
 </div>
 
 ### :man_technologist: About Me :
-Yunfei Luo is a prospective Ph.D. student in the Halıcıoğlu Data Science Institute at the University of California San Diego. His research focuses on applied machine learning, multimodal learning, and multitask learning, along with applications in digital health and smart scene. Yunfei received his dual B.S. in computer science and mathematics from the University of Massachusetts Amherst, his M.S. in computer science also from the University of Massachusetts Amherst. He has more than 4 years of research and engineering experience in the field of machine learning, working with multimodal data and multitask learning. Yunfei is a diligent person, easy going, and a quick learner.
+Yunfei Luo is a Ph.D. student (incoming class of Fall 2023) in the Halıcıoğlu Data Science Institute at the University of California San Diego. His research focuses on applied machine learning, multimodal learning, and multitask learning, along with applications in digital health and smart scene. Yunfei received his dual B.S. in computer science and mathematics from the University of Massachusetts Amherst, his M.S. in computer science also from the University of Massachusetts Amherst. He has more than 4 years of research and engineering experience in the field of machine learning, working with multimodal data and multitask learning. Yunfei is a diligent person, easy going, and a quick learner.
 
 ---
 
