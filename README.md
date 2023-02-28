@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="365"/>
   <div id="badges">
-  <a href="https://www.linkedin.com/in/yunfei-luo-616ab7171/">
+  <a href="https://www.linkedin.com/in/yunfei-luo/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://yunfeiluo.github.io/">
