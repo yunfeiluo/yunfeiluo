@@ -47,5 +47,6 @@ Yunfei received his dual B.S. and M.S. in computer science from the <a href="htt
 ---
 
 ### :fire: My Stats :
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunfeiluo&show_icons=true&theme=dark&card_width=495)  
+<!-- Comment like this --> 
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yunfeiluo&show_icons=true&theme=dark&card_width=495)-->  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yunfeiluo&theme=blueberry&mode=weekly)](https://git.io/streak-stats)
